@@ -2,7 +2,7 @@
 More Itertools
 ==============
 
-.. image:: https://img.shields.io/readthedocs/more-itertools/latest?style=flat&labelColor=000000
+.. image:: https://readthedocs.org/projects/more-itertools/badge/?version=latest
   :target: https://more-itertools.readthedocs.io/en/stable/
 
 Python's ``itertools`` library is a gem - you can compose elegant solutions
